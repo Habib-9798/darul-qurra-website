@@ -1,20 +1,13 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img width="1200" height="475" alt="Darul Qurra Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# Darul Qurra Website
 
-This contains everything you need to run your app locally.
+A modern Islamic educational website built with **Next.js**, focused on Quranic learning, programs, and community engagement.
 
-View your app in AI Studio: https://ai.studio/apps/7aa70835-b435-4dd1-a3f2-28e164457dd6
+---
 
-## Run Locally
+## 🚀 Live Website
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+(After deployment, add your Vercel link here)
