@@ -48,7 +48,7 @@ export default function GalleryPage() {
     <div>
       <PageHero
         title="Campus Gallery"
-        subtitle="Visual glimpses into the vibrant spiritual, academic, and community life at Darul Quran Peshawar."
+        subtitle="Visual glimpses into the vibrant spiritual, academic, and community life at Darul Qurra Peshawar."
         image="https://images.unsplash.com/photo-1564121211835-e88c852648ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80"
         badge="Moments & Memories"
       />
@@ -59,7 +59,7 @@ export default function GalleryPage() {
             <SectionTitle
               title="Life in the Madrasa"
               subtitle="Campus Gallery"
-              description="A collection of moments reflecting the spiritual atmosphere, disciplined learning, and community warmth of Darul Quran."
+              description="A collection of moments reflecting the spiritual atmosphere, disciplined learning, and community warmth of Darul Qurra ."
             />
           </div>
 

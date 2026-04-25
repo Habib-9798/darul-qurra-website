@@ -37,7 +37,7 @@ export default function AboutPage() {
   return (
     <div>
       <PageHero
-        title="About Darul Quran"
+        title="About Darul Qurra"
         subtitle="A beacon of Islamic learning devoted to preserving and transmitting the knowledge of the Holy Quran since 1969."
         image="https://images.unsplash.com/photo-1585036156171-384164a8c675?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80"
         badge="Sacred Legacy"
@@ -55,7 +55,7 @@ export default function AboutPage() {
               </h2>
 
               <p className="text-lg leading-8 text-dark/72">
-                Darul Quran Peshawar was founded to create a place where the Book
+                Darul Qurra Peshawar was founded to create a place where the Book
                 of Allah is learned, memorized, understood, and honored according
                 to the authentic Prophetic tradition.
               </p>

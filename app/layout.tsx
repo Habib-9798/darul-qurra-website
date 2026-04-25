@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-sans', display: 'swa
 const playfair = Playfair_Display({ subsets: ['latin'], variable: '--font-serif', display: 'swap' });
 
 export const metadata: Metadata = {
-  title: 'Darul Quran Peshawar',
+  title: 'Darul Qurra Peshawar',
   description: 'A respected Islamic institute focused on Quran education, Tajweed, and Qira’at since 1969.',
 };
 

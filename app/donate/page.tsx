@@ -30,7 +30,7 @@ export default function DonatePage() {
             <SectionTitle
               title="A Continual Charity"
               subtitle="Support With Intention"
-              description="Supporting Darul Quran helps sacred knowledge continue from one generation to the next. Your contribution strengthens teaching, student support, and the daily work of preserving the Book of Allah."
+              description="Supporting Darul Qurra helps sacred knowledge continue from one generation to the next. Your contribution strengthens teaching, student support, and the daily work of preserving the Book of Allah."
             />
           </div>
 
@@ -53,7 +53,7 @@ export default function DonatePage() {
                       Account Title
                     </p>
                     <p className="font-mono text-lg font-bold text-brand-dark">
-                      DARUL QURAN PESHAWAR TRUST
+                      Darul Qurra PESHAWAR TRUST
                     </p>
                   </div>
 
@@ -115,7 +115,7 @@ export default function DonatePage() {
                       0300 123 4567
                     </p>
                     <p className="text-sm text-cream/62">
-                      Title: Darul Quran Trust
+                      Title: Darul Qurra Trust
                     </p>
                   </div>
 
@@ -127,7 +127,7 @@ export default function DonatePage() {
                       0300 123 4567
                     </p>
                     <p className="text-sm text-cream/62">
-                      Title: Darul Quran Trust
+                      Title: Darul Qurra Trust
                     </p>
                   </div>
                 </div>

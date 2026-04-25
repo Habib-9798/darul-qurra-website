@@ -304,7 +304,7 @@ export const faqs = [
     category: "General",
     items: [
       {
-        question: "Where is Darul Quran located?",
+        question: "Where is Darul Qurra located?",
         answer: "We are centrally located in Peshawar, easily accessible via main transit routes. Detailed directions are available on our Contact page."
       },
       {

@@ -34,7 +34,7 @@ export default function Home() {
         <div className="absolute inset-0 z-0">
           <img
             src="https://images.unsplash.com/photo-1542618837-1d6d63e5b387?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80"
-            alt="Darul Quran Architecture"
+            alt="Darul Qurra Architecture"
             className="parallax-soft h-full w-full scale-110 object-cover opacity-30 mix-blend-screen"
             referrerPolicy="no-referrer"
           />
@@ -210,7 +210,7 @@ export default function Home() {
                 title="A Beacon of Islamic Learning"
                 subtitle="Welcome to Darul Qurra"
                 alignment="left"
-                description="Darul Quran Peshawar has been a trusted center of Islamic learning for over five decades."
+                description="Darul Qurra Peshawar has been a trusted center of Islamic learning for over five decades."
               />
 
               <div className="arabic-divider justify-start">
@@ -297,7 +297,7 @@ export default function Home() {
         <div className="container-shell relative z-10 max-w-7xl">
           <div className="reveal-up">
             <SectionTitle
-              title="Why Choose Darul Quran?"
+              title="Why Choose Darul Qurra?"
               subtitle="Our Distinction"
               description="A disciplined, trusted, and spiritually grounded environment for Quranic excellence."
             />
@@ -444,7 +444,7 @@ export default function Home() {
                   <Play className="ml-1 h-8 w-8" fill="currentColor" />
                 </div>
                 <h3 className="px-4 text-2xl font-bold text-cream md:text-3xl">
-                  Introduction to Darul Quran
+                  Introduction to Darul Qurra
                 </h3>
               </div>
             </div>
@@ -731,7 +731,7 @@ export default function Home() {
                       Campus Location
                     </h4>
                     <p className="text-sm leading-7 text-cream/72">
-                      Darul Quran building, University Road,
+                      Darul Qurrabuilding, University Road,
                       <br />
                       Peshawar, KP, Pakistan
                     </p>

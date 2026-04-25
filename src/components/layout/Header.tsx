@@ -59,7 +59,7 @@ export function Header() {
 
               <div className="min-w-0">
                 <h1 className="truncate font-serif text-lg font-bold leading-tight text-brand-dark md:text-xl">
-                  Darul Quran
+                  Darul Qurra
                 </h1>
                 <p className="truncate text-[10px] font-semibold uppercase tracking-[0.28em] text-brand/70 md:text-[11px]">
                   Peshawar

@@ -33,7 +33,7 @@ export default function ContactPage() {
     {
       icon: MapPin,
       title: 'Campus Location',
-      body: 'Darul Quran Educational Complex, Opposite Main Jamia Masjid, Phase 3, Hayatabad, Peshawar, Khyber Pakhtunkhwa.',
+      body: 'Darul Qurra Educational Complex, Opposite Main Jamia Masjid, Phase 3, Hayatabad, Peshawar, Khyber Pakhtunkhwa.',
     },
     {
       icon: Phone,

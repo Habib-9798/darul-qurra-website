@@ -35,7 +35,7 @@ export default function AdmissionsPage() {
         <div className="container-shell relative z-10 max-w-6xl">
           <div className="surface-card mb-12 p-8 text-center md:p-10">
             <SectionTitle
-              title="Welcome to Darul Quran"
+              title="Welcome to Darul Qurra"
               subtitle="Admissions Overview"
               description="We welcome students from all backgrounds who sincerely wish to learn the Holy Quran. Our admissions process is designed to place every learner at the right level with care and clarity."
             />
@@ -281,7 +281,7 @@ export default function AdmissionsPage() {
                 a: 'Our admissions office typically processes online applications within 24 to 48 working hours. We will contact you by phone or WhatsApp to arrange assessment and placement.',
               },
               {
-                q: 'Can females apply to Darul Quran?',
+                q: 'Can females apply to Darul Qurra?',
                 a: 'Yes, we have dedicated and segregated facilities for female students, taught by qualified female scholars and instructors.',
               },
             ].map((item) => (
@@ -326,4 +326,4 @@ export default function AdmissionsPage() {
       <CTABanner />
     </div>
   );
-}
+}  

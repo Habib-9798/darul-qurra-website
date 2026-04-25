@@ -33,7 +33,7 @@ export default function PrivacyPolicyPage() {
     <div>
       <PageHero
         title="Privacy Policy"
-        subtitle="How we collect, use, and protect the information shared with Darul Quran through this website."
+        subtitle="How we collect, use, and protect the information shared with Darul Qurra through this website."
         badge="Website Policy"
       />
 

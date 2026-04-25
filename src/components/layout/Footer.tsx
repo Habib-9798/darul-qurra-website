@@ -27,7 +27,7 @@ export function Footer() {
 
               <div>
                 <h2 className="font-serif text-xl font-bold leading-tight text-cream">
-                  Darul Quran
+                  Darul Qurra
                 </h2>
                 <p className="text-xs font-semibold uppercase tracking-[0.28em] text-gold">
                   Peshawar
@@ -168,7 +168,7 @@ export function Footer() {
             <ul className="mb-6 space-y-4 text-sm text-cream/74">
               <li className="flex items-start gap-3">
                 <MapPin className="mt-0.5 h-5 w-5 shrink-0 text-gold" />
-                <span>Darul Quran, University Road, Peshawar, KP, Pakistan</span>
+                <span>Darul Qurra, University Road, Peshawar, KP, Pakistan</span>
               </li>
 
               <li className="flex items-center gap-3">
@@ -193,7 +193,7 @@ export function Footer() {
         </div>
 
         <div className="flex flex-col items-center justify-between gap-4 border-t border-white/10 pt-6 text-xs text-cream/60 md:flex-row">
-          <p>&copy; {new Date().getFullYear()} Darul Quran Peshawar. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Darul Qurra Peshawar. All rights reserved.</p>
 
           <div className="flex gap-4">
             <Link href="/privacy-policy" className="transition-colors hover:text-cream">

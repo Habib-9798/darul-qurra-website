@@ -12,7 +12,7 @@ const sections = [
   ],
   [
     'Intellectual Property',
-    'Website content, branding, text, and design elements belong to Darul Quran unless otherwise stated. Reuse should not occur without permission.',
+    'Website content, branding, text, and design elements belong to Darul Qurra unless otherwise stated. Reuse should not occur without permission.',
   ],
   [
     'External Links',
@@ -43,7 +43,7 @@ export default function TermsPage() {
             <SectionTitle
               title="Website Terms & Conditions"
               subtitle="Use & Responsibility"
-              description="These terms outline the general conditions governing website usage, informational content, and communication through Darul Quran’s site."
+              description="These terms outline the general conditions governing website usage, informational content, and communication through Darul Qurra’s site."
             />
           </div>
 

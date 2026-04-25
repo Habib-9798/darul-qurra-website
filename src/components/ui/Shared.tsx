@@ -30,7 +30,7 @@ export function SectionTitle({
         )}
       >
         <div className="h-px w-12 bg-gold/45"></div>
-        <span className="section-label">{subtitle || 'Darul Quran'}</span>
+        <span className="section-label">{subtitle || 'Darul Qurra'}</span>
         <div className="h-px w-12 bg-gold/45"></div>
       </div>
 
@@ -322,7 +322,7 @@ function ApplicationFormBase() {
           >
             I confirm that the information provided is accurate. I understand
             that admission is subject to an entrance assessment and seat
-            availability at Darul Quran Peshawar.
+            availability at Darul Qurra Peshawar.
           </label>
         </div>
       </div>
